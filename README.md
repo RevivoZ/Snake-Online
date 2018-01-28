@@ -12,7 +12,7 @@ there is no limit of players.
 try the game here :
 http://revivoz-snake.fr.openode.io/
 
-# how to run
+# How To Run
 just clone and run 'npm install'
 then 'node app.js'
 and go to 'localhost' to play.
