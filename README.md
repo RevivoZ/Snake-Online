@@ -1,4 +1,4 @@
-# Online-Snake
+# Snake-Online
 
 Multiplayer-Online-Snake game. NodeJS, Socket.IO, JavaScript
 <br>
