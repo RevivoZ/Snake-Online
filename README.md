@@ -4,6 +4,8 @@ Multiplayer-Online-Snake game. NodeJS, Socket.IO, JavaScript
 
 this is like the old-school snake game but with online multiplayer ability :)
 there is no limit of players.
+try the game here :
+http://revivoz-snake.fr.openode.io/
 
 # how to run
 just clone and run 'npm install'
