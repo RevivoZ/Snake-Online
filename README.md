@@ -2,7 +2,8 @@
 
 Multiplayer-Online-Snake game. NodeJS, Socket.IO, JavaScript
 
-this is like the old-school snake game but with online multiplayer ability :)
+this game is like the old-school snake game but with online multiplayer ability :)
+its like 'slither.io', you must not hit another player, you can move throw yourself and the walls.
 there is no limit of players.
 try the game here :
 http://revivoz-snake.fr.openode.io/
